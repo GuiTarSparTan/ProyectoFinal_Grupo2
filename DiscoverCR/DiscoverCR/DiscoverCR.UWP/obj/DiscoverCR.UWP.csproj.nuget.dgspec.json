@@ -1,27 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\source\\repos\\Programación 5\\DiscoverCR\\DiscoverCR\\DiscoverCR.UWP\\DiscoverCR.UWP.csproj": {}
+    "C:\\Users\\Fernando Valdivieso\\Documents\\GitHub\\ProyectoFinal_Grupo2\\DiscoverCR\\DiscoverCR\\DiscoverCR.UWP\\DiscoverCR.UWP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\source\\repos\\Programación 5\\DiscoverCR\\DiscoverCR\\DiscoverCR.UWP\\DiscoverCR.UWP.csproj": {
+    "C:\\Users\\Fernando Valdivieso\\Documents\\GitHub\\ProyectoFinal_Grupo2\\DiscoverCR\\DiscoverCR\\DiscoverCR.UWP\\DiscoverCR.UWP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\source\\repos\\Programación 5\\DiscoverCR\\DiscoverCR\\DiscoverCR.UWP\\DiscoverCR.UWP.csproj",
+        "projectUniqueName": "C:\\Users\\Fernando Valdivieso\\Documents\\GitHub\\ProyectoFinal_Grupo2\\DiscoverCR\\DiscoverCR\\DiscoverCR.UWP\\DiscoverCR.UWP.csproj",
         "projectName": "DiscoverCR.UWP",
-        "projectPath": "C:\\Users\\david\\source\\repos\\Programación 5\\DiscoverCR\\DiscoverCR\\DiscoverCR.UWP\\DiscoverCR.UWP.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\source\\repos\\Programación 5\\DiscoverCR\\DiscoverCR\\DiscoverCR.UWP\\obj\\",
+        "projectPath": "C:\\Users\\Fernando Valdivieso\\Documents\\GitHub\\ProyectoFinal_Grupo2\\DiscoverCR\\DiscoverCR\\DiscoverCR.UWP\\DiscoverCR.UWP.csproj",
+        "packagesPath": "C:\\Users\\Fernando Valdivieso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fernando Valdivieso\\Documents\\GitHub\\ProyectoFinal_Grupo2\\DiscoverCR\\DiscoverCR\\DiscoverCR.UWP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fernando Valdivieso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "uap10.0.16299"
@@ -33,8 +35,8 @@
         "frameworks": {
           "uap10.0.16299": {
             "projectReferences": {
-              "C:\\Users\\david\\source\\repos\\Programación 5\\DiscoverCR\\DiscoverCR\\DiscoverCR\\DiscoverCR.csproj": {
-                "projectPath": "C:\\Users\\david\\source\\repos\\Programación 5\\DiscoverCR\\DiscoverCR\\DiscoverCR\\DiscoverCR.csproj"
+              "C:\\Users\\Fernando Valdivieso\\Documents\\GitHub\\ProyectoFinal_Grupo2\\DiscoverCR\\DiscoverCR\\DiscoverCR\\DiscoverCR.csproj": {
+                "projectPath": "C:\\Users\\Fernando Valdivieso\\Documents\\GitHub\\ProyectoFinal_Grupo2\\DiscoverCR\\DiscoverCR\\DiscoverCR\\DiscoverCR.csproj"
               }
             }
           }
@@ -87,29 +89,30 @@
         }
       }
     },
-    "C:\\Users\\david\\source\\repos\\Programación 5\\DiscoverCR\\DiscoverCR\\DiscoverCR\\DiscoverCR.csproj": {
+    "C:\\Users\\Fernando Valdivieso\\Documents\\GitHub\\ProyectoFinal_Grupo2\\DiscoverCR\\DiscoverCR\\DiscoverCR\\DiscoverCR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\source\\repos\\Programación 5\\DiscoverCR\\DiscoverCR\\DiscoverCR\\DiscoverCR.csproj",
+        "projectUniqueName": "C:\\Users\\Fernando Valdivieso\\Documents\\GitHub\\ProyectoFinal_Grupo2\\DiscoverCR\\DiscoverCR\\DiscoverCR\\DiscoverCR.csproj",
         "projectName": "DiscoverCR",
-        "projectPath": "C:\\Users\\david\\source\\repos\\Programación 5\\DiscoverCR\\DiscoverCR\\DiscoverCR\\DiscoverCR.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\source\\repos\\Programación 5\\DiscoverCR\\DiscoverCR\\DiscoverCR\\obj\\",
+        "projectPath": "C:\\Users\\Fernando Valdivieso\\Documents\\GitHub\\ProyectoFinal_Grupo2\\DiscoverCR\\DiscoverCR\\DiscoverCR\\DiscoverCR.csproj",
+        "packagesPath": "C:\\Users\\Fernando Valdivieso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fernando Valdivieso\\Documents\\GitHub\\ProyectoFinal_Grupo2\\DiscoverCR\\DiscoverCR\\DiscoverCR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fernando Valdivieso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -153,12 +156,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }
