@@ -78,6 +78,44 @@ namespace DiscoverCR.Implementacion
         }
 
         //Metodo visualizar usuario (Read)
+        public string mostrarUsuario(string id_usuario)
+        {
+            MySqlCommand cmd = new MySqlCommand();//comandos
+            MySqlConnection con;//conexion
+            MySqlDataAdapter Adaptador = new MySqlDataAdapter();
+            DataSet dsUsuarios = new DataSet();
+            DataTable tblUsuario = new DataTable();
+            string txt = "";
+            try
+            {
+                con = new MySqlConnection("server = localhost; " +
+                                          "port = 3306; " +
+                                          "username = root; " +
+                                          "password =;" +
+                                          "database =db_discover_cr");
+                con.Open();
+                string qry = "SELECT * FROM tb_usuario where id_usuario=" + id_usuario;
+                cmd.CommandText = qry;
+                cmd.Connection = con;
+                Adaptador.SelectCommand = cmd;
+                Adaptador.Fill(dsUsuarios, "tb_usuario");
+                cmd.ExecuteNonQuery();
+
+                tblUsuario = dsUsuarios.Tables["tb_usuario"];
+
+                foreach (DataRow drCurrent in tblUsuario.Rows)
+                {
+                    txt = drCurrent["nombreUsuario"].ToString();
+                    txt = drCurrent["infoGeneral"].ToString();
+                    txt = drCurrent["fotoPerfil"].ToString();
+                }
+                return txt;
+            }
+            catch (Exception ex)
+            {
+                return ex.Message;
+            }
+        }
 
         //Metodo editar usuario (Update)
 
