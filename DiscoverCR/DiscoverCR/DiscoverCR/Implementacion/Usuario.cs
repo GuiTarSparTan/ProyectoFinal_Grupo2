@@ -23,7 +23,8 @@ namespace DiscoverCR.Implementacion
 
         //Metodo constructor de la clase usuario
         public Usuario(int id_usuario, string nombreUsuario, string clave, string nombre, string apellido1,
-            string apellido2, string email, string tipo, string infoGeneral, string fotoPerfil, bool bloqueado) {
+            string apellido2, string email, string tipo, string infoGeneral, string fotoPerfil, bool bloqueado)
+        {
             this.id_usuario = id_usuario;
             this.nombreUsuario = nombreUsuario;
             this.clave = clave;
