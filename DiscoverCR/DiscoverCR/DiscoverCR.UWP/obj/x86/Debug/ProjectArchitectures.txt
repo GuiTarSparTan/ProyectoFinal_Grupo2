@@ -1,1 +1,1 @@
-C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\DiscoverCR.UWP.csproj;x86
+C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\DiscoverCR.UWP.csproj;x86

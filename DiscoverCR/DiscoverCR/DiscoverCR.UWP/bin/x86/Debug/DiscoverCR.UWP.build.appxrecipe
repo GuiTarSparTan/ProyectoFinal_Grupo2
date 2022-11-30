@@ -10,26 +10,59 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=4B32AB3C-A554-427C-9AF4-6CE38D7E8BF4</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\DiscoverCR.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\DiscoverCR.UWP.exe">
       <PackagePath>entrypoint\DiscoverCR.UWP.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\google.protobuf\3.19.4\lib\netstandard2.0\Google.Protobuf.dll">
+      <PackagePath>Google.Protobuf.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\k4os.compression.lz4\1.2.6\lib\netstandard2.0\K4os.Compression.LZ4.dll">
+      <PackagePath>K4os.Compression.LZ4.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\k4os.compression.lz4.streams\1.2.6\lib\netstandard2.0\K4os.Compression.LZ4.Streams.dll">
+      <PackagePath>K4os.Compression.LZ4.Streams.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\k4os.hash.xxhash\1.0.6\lib\netstandard2.0\K4os.Hash.xxHash.dll">
+      <PackagePath>K4os.Hash.xxHash.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\mysql.data\8.0.31\lib\netstandard2.0\MySql.Data.dll">
+      <PackagePath>MySql.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\mysql.data\8.0.31\lib\netstandard2.0\ZstdNet.dll">
+      <PackagePath>ZstdNet.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\portable.bouncycastle\1.9.0\lib\netstandard2.0\BouncyCastle.Crypto.dll">
+      <PackagePath>BouncyCastle.Crypto.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\david\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\system.configuration.configurationmanager\4.4.1\lib\netstandard2.0\System.Configuration.ConfigurationManager.dll">
+      <PackagePath>System.Configuration.ConfigurationManager.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\system.runtime.compilerservices.unsafe\5.0.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\system.security.cryptography.protecteddata\4.4.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll">
+      <PackagePath>System.Security.Cryptography.ProtectedData.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\system.security.permissions\4.7.0\lib\netstandard2.0\System.Security.Permissions.dll">
+      <PackagePath>System.Security.Permissions.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\david\.nuget\packages\win2d.uwp\1.20.0\runtimes\win10-x86\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
@@ -49,151 +82,151 @@
     <AppxPackagedFile Include="C:\Users\david\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR\bin\Debug\netstandard2.0\DiscoverCR.dll">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR\bin\Debug\netstandard2.0\DiscoverCR.dll">
       <PackagePath>DiscoverCR.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\david\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.22621.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\david\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\DiscoverCR.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\DiscoverCR.UWP.xr.xml">
       <PackagePath>DiscoverCR.UWP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22621.0\\redist\Debug\x86\ucrtbased.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22621.0\Windows.winmd">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\david\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\Core\DiscoverCR.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\Core\DiscoverCR.UWP.exe">
       <PackagePath>DiscoverCR.UWP.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
