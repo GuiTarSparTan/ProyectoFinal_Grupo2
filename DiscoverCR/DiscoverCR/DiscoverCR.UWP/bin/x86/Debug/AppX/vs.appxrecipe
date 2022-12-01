@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=4B32AB3C-A554-427C-9AF4-6CE38D7E8BF4</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>7BD3BB578ECAC18920D3B429174C0A8FBCD230E15C792E69E86097F5F282F5ED</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>64EDEC4C9857E49842FB5C66E3D5B6B11B26F610A6302F5CF3B8078E4FCF6073</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>483C39AC-C889-48FA-9323-778665254BFB_1.0.0.0_x86__asdy6t73a7mw0</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>483C39AC-C889-48FA-9323-778665254BFB_asdy6t73a7mw0!App</RegisteredUserModeAppID>
     <RegisteredPackageID>483C39AC-C889-48FA-9323-778665254BFB</RegisteredPackageID>
@@ -27,20 +27,64 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:31:50.961</Modified>
+      <Modified>2022-11-30T02:20:26.585</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\DiscoverCR.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\DiscoverCR.UWP.exe">
       <PackagePath>entrypoint\DiscoverCR.UWP.exe</PackagePath>
-      <Modified>2022-11-02T23:31:48.270</Modified>
+      <Modified>2022-11-30T02:20:23.420</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\google.protobuf\3.19.4\lib\netstandard2.0\Google.Protobuf.dll">
+      <PackagePath>Google.Protobuf.dll</PackagePath>
+      <Modified>2022-01-28T08:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\k4os.compression.lz4\1.2.6\lib\netstandard2.0\K4os.Compression.LZ4.dll">
+      <PackagePath>K4os.Compression.LZ4.dll</PackagePath>
+      <Modified>2020-09-12T01:11:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\k4os.compression.lz4.streams\1.2.6\lib\netstandard2.0\K4os.Compression.LZ4.Streams.dll">
+      <PackagePath>K4os.Compression.LZ4.Streams.dll</PackagePath>
+      <Modified>2020-09-12T01:11:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\k4os.hash.xxhash\1.0.6\lib\netstandard2.0\K4os.Hash.xxHash.dll">
+      <PackagePath>K4os.Hash.xxHash.dll</PackagePath>
+      <Modified>2019-07-03T20:39:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\mysql.data\8.0.31\lib\netstandard2.0\MySql.Data.dll">
+      <PackagePath>MySql.Data.dll</PackagePath>
+      <Modified>2022-09-09T14:08:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\mysql.data\8.0.31\lib\netstandard2.0\ZstdNet.dll">
+      <PackagePath>ZstdNet.dll</PackagePath>
+      <Modified>2022-09-09T14:03:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\portable.bouncycastle\1.9.0\lib\netstandard2.0\BouncyCastle.Crypto.dll">
+      <PackagePath>BouncyCastle.Crypto.dll</PackagePath>
+      <Modified>2021-10-19T11:53:34.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\david\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
       <Modified>2021-02-05T01:15:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\system.configuration.configurationmanager\4.4.1\lib\netstandard2.0\System.Configuration.ConfigurationManager.dll">
+      <PackagePath>System.Configuration.ConfigurationManager.dll</PackagePath>
+      <Modified>2017-11-20T18:09:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\system.runtime.compilerservices.unsafe\5.0.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+      <Modified>2020-10-19T18:46:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\system.security.cryptography.protecteddata\4.4.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll">
+      <PackagePath>System.Security.Cryptography.ProtectedData.dll</PackagePath>
+      <Modified>2017-07-19T10:01:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\system.security.permissions\4.7.0\lib\netstandard2.0\System.Security.Permissions.dll">
+      <PackagePath>System.Security.Permissions.dll</PackagePath>
+      <Modified>2019-11-15T08:37:44.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\david\.nuget\packages\win2d.uwp\1.20.0\runtimes\win10-x86\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
@@ -66,192 +110,192 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2021-10-14T09:55:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR\bin\Debug\netstandard2.0\DiscoverCR.dll">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR\bin\Debug\netstandard2.0\DiscoverCR.dll">
       <PackagePath>DiscoverCR.dll</PackagePath>
-      <Modified>2022-11-03T00:43:51.272</Modified>
+      <Modified>2022-11-30T02:20:17.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\david\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
       <Modified>2016-11-30T02:58:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.22621.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
-      <Modified>2022-05-06T21:16:12.000</Modified>
+      <Modified>2020-12-02T10:52:00.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\david\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2021-10-14T09:49:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.582</Modified>
+      <Modified>2022-11-30T02:12:28.413</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.589</Modified>
+      <Modified>2022-11-30T02:12:28.414</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.595</Modified>
+      <Modified>2022-11-30T02:12:28.416</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.601</Modified>
+      <Modified>2022-11-30T02:12:28.417</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.605</Modified>
+      <Modified>2022-11-30T02:12:28.418</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.611</Modified>
+      <Modified>2022-11-30T02:12:28.418</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.622</Modified>
+      <Modified>2022-11-30T02:12:28.419</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.628</Modified>
+      <Modified>2022-11-30T02:12:28.420</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.633</Modified>
+      <Modified>2022-11-30T02:12:28.421</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.640</Modified>
+      <Modified>2022-11-30T02:12:28.422</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.644</Modified>
+      <Modified>2022-11-30T02:12:28.422</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.677</Modified>
+      <Modified>2022-11-30T02:12:28.423</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.682</Modified>
+      <Modified>2022-11-30T02:12:28.424</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.686</Modified>
+      <Modified>2022-11-30T02:12:28.425</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.690</Modified>
+      <Modified>2022-11-30T02:12:28.425</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.693</Modified>
+      <Modified>2022-11-30T02:12:28.430</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.697</Modified>
+      <Modified>2022-11-30T02:12:28.431</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.701</Modified>
+      <Modified>2022-11-30T02:12:28.431</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.705</Modified>
+      <Modified>2022-11-30T02:12:28.432</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.710</Modified>
+      <Modified>2022-11-30T02:12:28.433</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.714</Modified>
+      <Modified>2022-11-30T02:12:28.435</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.720</Modified>
+      <Modified>2022-11-30T02:12:28.436</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.724</Modified>
+      <Modified>2022-11-30T02:12:28.442</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.728</Modified>
+      <Modified>2022-11-30T02:12:28.443</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.731</Modified>
+      <Modified>2022-11-30T02:12:28.443</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.735</Modified>
+      <Modified>2022-11-30T02:12:28.445</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T23:30:52.741</Modified>
+      <Modified>2022-11-30T02:12:28.445</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2022-11-02T23:30:52.749</Modified>
+      <Modified>2022-11-30T02:12:28.450</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\DiscoverCR.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\DiscoverCR.UWP.xr.xml">
       <PackagePath>DiscoverCR.UWP.xr.xml</PackagePath>
-      <Modified>2022-11-02T23:31:48.100</Modified>
+      <Modified>2022-11-30T02:12:28.821</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-11-02T23:31:48.138</Modified>
+      <Modified>2022-11-30T02:20:23.338</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-11-02T23:31:48.138</Modified>
+      <Modified>2022-11-30T02:20:23.338</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22621.0\\redist\Debug\x86\ucrtbased.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
-      <Modified>2022-05-06T21:22:14.000</Modified>
+      <Modified>2020-12-02T10:59:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22621.0\Windows.winmd">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
-      <Modified>2022-05-07T00:02:32.000</Modified>
+      <Modified>2020-12-02T08:52:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\david\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
       <Modified>2020-07-10T00:07:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-11-02T23:31:49.084</Modified>
+      <Modified>2022-11-30T02:20:24.475</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\Core\DiscoverCR.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x86\Debug\Core\DiscoverCR.UWP.exe">
       <PackagePath>DiscoverCR.UWP.exe</PackagePath>
-      <Modified>2022-11-02T23:31:50.956</Modified>
+      <Modified>2022-11-30T02:20:26.580</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
