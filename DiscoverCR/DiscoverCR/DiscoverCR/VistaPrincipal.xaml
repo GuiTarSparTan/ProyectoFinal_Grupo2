@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DiscoverCR.VistaPrincipal">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <FlexLayout AlignItems="Stretch" Direction="Row">
+                <Label Text="DISCOVER CR" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+                <Button Text="Calcular" Clicked="Btn_login" BackgroundColor="Black"/>
+            </FlexLayout>
+        </Frame>
+        <Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="30,0,30,0"/>
+    </StackLayout>
+
+</ContentPage>

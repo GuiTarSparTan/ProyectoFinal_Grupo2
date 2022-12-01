@@ -1,0 +1,1 @@
+C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\DiscoverCR.UWP.csproj;x64
