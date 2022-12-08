@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("DiscoverCR.VistaPrincipal.xaml", "VistaPrincipal.xaml", typeof(global::DiscoverCR.VistaPrincipal))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("DiscoverCR.VistaResena.xaml", "VistaResena.xaml", typeof(global::DiscoverCR.VistaResena))]
 
 namespace DiscoverCR {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("VistaPrincipal.xaml")]
-    public partial class VistaPrincipal : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("VistaResena.xaml")]
+    public partial class VistaResena : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(VistaPrincipal));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(VistaResena));
         }
     }
 }
