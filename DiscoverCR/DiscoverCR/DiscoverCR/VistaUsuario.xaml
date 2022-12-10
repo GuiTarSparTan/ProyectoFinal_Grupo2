@@ -4,9 +4,34 @@
              x:Class="DiscoverCR.VistaUsuario">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <StackLayout Margin="40">
+                <Label Text="Discover Costa Rica"
+               HorizontalOptions="Center" />
+                <BoxView BackgroundColor="Red"
+                 HeightRequest="1" />
+                <Label Text="Start"
+               BackgroundColor="Gray"
+               VerticalOptions="StartAndExpand" />
+                <BoxView BackgroundColor="Red"
+                 HeightRequest="1" />
+                <Label Text="Center"
+               BackgroundColor="Gray"
+               VerticalOptions="CenterAndExpand" />
+                <BoxView BackgroundColor="Red"
+                 HeightRequest="1" />
+                <Label Text="End"
+               BackgroundColor="Gray"
+               VerticalOptions="EndAndExpand" />
+                <BoxView BackgroundColor="Red"
+                 HeightRequest="1" />
+                <Label Text="Fill"
+               BackgroundColor="Gray"
+               VerticalOptions="FillAndExpand" />
+                <BoxView BackgroundColor="Red"
+                 HeightRequest="1" />
+                <Button Text="Login" HorizontalOptions="FillAndExpand" BackgroundColor="Orange" TextColor="White"/>
+                <Button Text="Register" HorizontalOptions="FillAndExpand" BackgroundColor="Gray" TextColor="White" />
+            </StackLayout>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

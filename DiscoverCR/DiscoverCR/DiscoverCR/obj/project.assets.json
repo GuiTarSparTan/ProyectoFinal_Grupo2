@@ -9,14 +9,10 @@
           "System.Runtime.CompilerServices.Unsafe": "4.5.2"
         },
         "compile": {
-          "lib/netstandard2.0/Google.Protobuf.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Google.Protobuf.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Google.Protobuf.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Google.Protobuf.dll": {}
         }
       },
       "K4os.Compression.LZ4/1.2.6": {
@@ -25,14 +21,10 @@
           "System.Memory": "4.5.4"
         },
         "compile": {
-          "lib/netstandard2.0/K4os.Compression.LZ4.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/K4os.Compression.LZ4.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/K4os.Compression.LZ4.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/K4os.Compression.LZ4.dll": {}
         }
       },
       "K4os.Compression.LZ4.Streams/1.2.6": {
@@ -42,14 +34,10 @@
           "K4os.Hash.xxHash": "1.0.6"
         },
         "compile": {
-          "lib/netstandard2.0/K4os.Compression.LZ4.Streams.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/K4os.Compression.LZ4.Streams.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/K4os.Compression.LZ4.Streams.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/K4os.Compression.LZ4.Streams.dll": {}
         }
       },
       "K4os.Hash.xxHash/1.0.6": {
@@ -58,14 +46,10 @@
           "System.Memory": "4.5.3"
         },
         "compile": {
-          "lib/netstandard2.0/K4os.Hash.xxHash.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/K4os.Hash.xxHash.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/K4os.Hash.xxHash.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/K4os.Hash.xxHash.dll": {}
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {
@@ -90,15 +74,11 @@
           "System.Text.Encoding.CodePages": "4.4.0"
         },
         "compile": {
-          "lib/netstandard2.0/MySql.Data.dll": {
-            "related": ".xml"
-          },
+          "lib/netstandard2.0/MySql.Data.dll": {},
           "lib/netstandard2.0/ZstdNet.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/MySql.Data.dll": {
-            "related": ".xml"
-          },
+          "lib/netstandard2.0/MySql.Data.dll": {},
           "lib/netstandard2.0/ZstdNet.dll": {}
         }
       },
@@ -120,27 +100,19 @@
       "Portable.BouncyCastle/1.9.0": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {}
         }
       },
       "System.Buffers/4.5.1": {
         "type": "package",
         "compile": {
-          "ref/netstandard2.0/System.Buffers.dll": {
-            "related": ".xml"
-          }
+          "ref/netstandard2.0/System.Buffers.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/System.Buffers.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/System.Buffers.dll": {}
         }
       },
       "System.Configuration.ConfigurationManager/4.4.1": {
@@ -149,9 +121,7 @@
           "System.Security.Cryptography.ProtectedData": "4.4.0"
         },
         "compile": {
-          "ref/netstandard2.0/System.Configuration.ConfigurationManager.dll": {
-            "related": ".xml"
-          }
+          "ref/netstandard2.0/System.Configuration.ConfigurationManager.dll": {}
         },
         "runtime": {
           "lib/netstandard2.0/System.Configuration.ConfigurationManager.dll": {}
@@ -165,40 +135,28 @@
           "System.Runtime.CompilerServices.Unsafe": "4.5.3"
         },
         "compile": {
-          "lib/netstandard2.0/System.Memory.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/System.Memory.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/System.Memory.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/System.Memory.dll": {}
         }
       },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "ref/netstandard2.0/System.Numerics.Vectors.dll": {
-            "related": ".xml"
-          }
+          "ref/netstandard2.0/System.Numerics.Vectors.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/System.Numerics.Vectors.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/System.Numerics.Vectors.dll": {}
         }
       },
       "System.Runtime.CompilerServices.Unsafe/5.0.0": {
         "type": "package",
         "compile": {
-          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {
-            "related": ".xml"
-          }
+          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         }
       },
       "System.Security.AccessControl/4.7.0": {
@@ -207,14 +165,10 @@
           "System.Security.Principal.Windows": "4.7.0"
         },
         "compile": {
-          "ref/netstandard2.0/System.Security.AccessControl.dll": {
-            "related": ".xml"
-          }
+          "ref/netstandard2.0/System.Security.AccessControl.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/System.Security.AccessControl.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/System.Security.AccessControl.dll": {}
         },
         "runtimeTargets": {
           "runtimes/win/lib/netstandard1.3/System.Security.AccessControl.dll": {
@@ -226,9 +180,7 @@
       "System.Security.Cryptography.ProtectedData/4.4.0": {
         "type": "package",
         "compile": {
-          "ref/netstandard2.0/_._": {
-            "related": ".xml"
-          }
+          "ref/netstandard2.0/_._": {}
         },
         "runtime": {
           "lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {}
@@ -246,27 +198,19 @@
           "System.Security.AccessControl": "4.7.0"
         },
         "compile": {
-          "ref/netstandard2.0/System.Security.Permissions.dll": {
-            "related": ".xml"
-          }
+          "ref/netstandard2.0/System.Security.Permissions.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/System.Security.Permissions.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/System.Security.Permissions.dll": {}
         }
       },
       "System.Security.Principal.Windows/4.7.0": {
         "type": "package",
         "compile": {
-          "ref/netstandard2.0/System.Security.Principal.Windows.dll": {
-            "related": ".xml"
-          }
+          "ref/netstandard2.0/System.Security.Principal.Windows.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/System.Security.Principal.Windows.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/System.Security.Principal.Windows.dll": {}
         },
         "runtimeTargets": {
           "runtimes/win/lib/netstandard1.3/System.Security.Principal.Windows.dll": {
@@ -278,9 +222,7 @@
       "System.Text.Encoding.CodePages/4.4.0": {
         "type": "package",
         "compile": {
-          "ref/netstandard2.0/System.Text.Encoding.CodePages.dll": {
-            "related": ".xml"
-          }
+          "ref/netstandard2.0/System.Text.Encoding.CodePages.dll": {}
         },
         "runtime": {
           "lib/netstandard2.0/System.Text.Encoding.CodePages.dll": {}
@@ -298,35 +240,23 @@
           "System.Numerics.Vectors": "4.5.0"
         },
         "compile": {
-          "lib/netstandard2.0/Xamarin.Essentials.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Xamarin.Essentials.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {}
         }
       },
       "Xamarin.Forms/5.0.0.2196": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
-            "related": ".pdb;.xml"
-          },
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {},
           "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {},
-          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
-            "related": ".pdb;.xml"
-          },
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {},
           "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {},
-          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {}
         },
         "build": {
           "buildTransitive/Xamarin.Forms.props": {},
@@ -1247,32 +1177,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\david\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Fernando Valdivieso\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\source\\repos\\Programación 5\\proyect\\DiscoverCR\\DiscoverCR\\DiscoverCR\\DiscoverCR.csproj",
+      "projectUniqueName": "C:\\Users\\Fernando Valdivieso\\Documents\\GitHub\\ProyectoFinal_Grupo2\\DiscoverCR\\DiscoverCR\\DiscoverCR\\DiscoverCR.csproj",
       "projectName": "DiscoverCR",
-      "projectPath": "C:\\Users\\david\\source\\repos\\Programación 5\\proyect\\DiscoverCR\\DiscoverCR\\DiscoverCR\\DiscoverCR.csproj",
-      "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\source\\repos\\Programación 5\\proyect\\DiscoverCR\\DiscoverCR\\DiscoverCR\\obj\\",
+      "projectPath": "C:\\Users\\Fernando Valdivieso\\Documents\\GitHub\\ProyectoFinal_Grupo2\\DiscoverCR\\DiscoverCR\\DiscoverCR\\DiscoverCR.csproj",
+      "packagesPath": "C:\\Users\\Fernando Valdivieso\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fernando Valdivieso\\Documents\\GitHub\\ProyectoFinal_Grupo2\\DiscoverCR\\DiscoverCR\\DiscoverCR\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fernando Valdivieso\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1316,12 +1248,11 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
       }
     }
   }
