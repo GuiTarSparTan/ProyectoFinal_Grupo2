@@ -31,7 +31,6 @@
                  HeightRequest="1" />
                 <Button Text="Login" HorizontalOptions="FillAndExpand" BackgroundColor="Orange" TextColor="White"/>
                 <Button Text="Register" HorizontalOptions="FillAndExpand" BackgroundColor="Gray" TextColor="White" />
-
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>

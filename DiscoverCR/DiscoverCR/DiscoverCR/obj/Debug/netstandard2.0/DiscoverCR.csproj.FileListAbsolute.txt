@@ -48,3 +48,6 @@ C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\Discov
 C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR\obj\Debug\netstandard2.0\ref\DiscoverCR.dll
 C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR\obj\Debug\netstandard2.0\VistaBlog.xaml.g.cs
 C:\Users\david\source\repos\Programación 5\proyect\DiscoverCR\DiscoverCR\DiscoverCR\obj\Debug\netstandard2.0\VistaResena.xaml.g.cs
+C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR\obj\Debug\netstandard2.0\VistaBlog.xaml.g.cs
+C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR\obj\Debug\netstandard2.0\VistaLogin.xaml.g.cs
+C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR\obj\Debug\netstandard2.0\VistaResena.xaml.g.cs

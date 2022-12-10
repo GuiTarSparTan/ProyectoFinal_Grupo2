@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-24T02:01:28.495</Modified>
+      <Modified>2022-12-09T23:12:14.463</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x64\Debug\DiscoverCR.UWP.exe">
       <PackagePath>entrypoint\DiscoverCR.UWP.exe</PackagePath>
-      <Modified>2022-11-24T02:01:26.817</Modified>
+      <Modified>2022-12-09T23:12:11.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\.nuget\packages\google.protobuf\3.19.4\lib\netstandard2.0\Google.Protobuf.dll">
       <PackagePath>Google.Protobuf.dll</PackagePath>
@@ -112,7 +112,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR\bin\Debug\netstandard2.0\DiscoverCR.dll">
       <PackagePath>DiscoverCR.dll</PackagePath>
-      <Modified>2022-11-24T02:04:45.943</Modified>
+      <Modified>2022-12-09T23:12:05.146</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -129,153 +129,153 @@
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:26.000</Modified>
+      <Modified>2022-12-01T01:32:37.364</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:26.000</Modified>
+      <Modified>2022-12-01T01:32:37.364</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:26.000</Modified>
+      <Modified>2022-12-01T01:32:37.365</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:26.000</Modified>
+      <Modified>2022-12-01T01:32:37.366</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:26.000</Modified>
+      <Modified>2022-12-01T01:32:37.366</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:26.000</Modified>
+      <Modified>2022-12-01T01:32:37.367</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:26.000</Modified>
+      <Modified>2022-12-01T01:32:37.367</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:26.000</Modified>
+      <Modified>2022-12-01T01:32:37.368</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:26.000</Modified>
+      <Modified>2022-12-01T01:32:37.369</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:26.000</Modified>
+      <Modified>2022-12-01T01:32:37.370</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:24.000</Modified>
+      <Modified>2022-12-01T01:32:37.370</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:26.000</Modified>
+      <Modified>2022-12-01T01:32:37.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:24.000</Modified>
+      <Modified>2022-12-01T01:32:37.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:24.000</Modified>
+      <Modified>2022-12-01T01:32:37.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:24.000</Modified>
+      <Modified>2022-12-01T01:32:37.374</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:24.000</Modified>
+      <Modified>2022-12-01T01:32:37.375</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:24.000</Modified>
+      <Modified>2022-12-01T01:32:37.375</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:24.000</Modified>
+      <Modified>2022-12-01T01:32:37.376</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:24.000</Modified>
+      <Modified>2022-12-01T01:32:37.376</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:24.000</Modified>
+      <Modified>2022-12-01T01:32:37.377</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:24.000</Modified>
+      <Modified>2022-12-01T01:32:37.377</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:22.000</Modified>
+      <Modified>2022-12-01T01:32:37.378</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:24.000</Modified>
+      <Modified>2022-12-01T01:32:37.379</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:22.000</Modified>
+      <Modified>2022-12-01T01:32:37.379</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:22.000</Modified>
+      <Modified>2022-12-01T01:32:37.380</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:22.000</Modified>
+      <Modified>2022-12-01T01:32:37.380</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-10T06:14:22.000</Modified>
+      <Modified>2022-12-01T01:32:37.382</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2022-11-10T06:09:18.000</Modified>
+      <Modified>2022-12-01T01:32:37.385</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x64\Debug\DiscoverCR.UWP.xr.xml">
       <PackagePath>DiscoverCR.UWP.xr.xml</PackagePath>
-      <Modified>2022-11-24T00:50:49.338</Modified>
+      <Modified>2022-12-01T01:50:33.925</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-11-24T02:01:26.502</Modified>
+      <Modified>2022-12-09T23:12:11.589</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-11-24T02:01:26.502</Modified>
+      <Modified>2022-12-09T23:12:11.590</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\X64\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -291,11 +291,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-11-24T00:50:52.527</Modified>
+      <Modified>2022-12-09T23:12:13.358</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernando Valdivieso\Documents\GitHub\ProyectoFinal_Grupo2\DiscoverCR\DiscoverCR\DiscoverCR.UWP\bin\x64\Debug\Core\DiscoverCR.UWP.exe">
       <PackagePath>DiscoverCR.UWP.exe</PackagePath>
-      <Modified>2022-11-24T02:01:28.487</Modified>
+      <Modified>2022-12-09T23:12:14.456</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

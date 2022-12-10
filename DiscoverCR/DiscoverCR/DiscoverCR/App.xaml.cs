@@ -10,7 +10,7 @@ namespace DiscoverCR
         {
             InitializeComponent();
 
-            MainPage = new VistaResena();
+            MainPage = new VistaBlog();
         }
 
         protected override void OnStart()
