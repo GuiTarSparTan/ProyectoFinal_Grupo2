@@ -11,7 +11,10 @@ DiscoverCR/.vs/DiscoverCR/v16/.suo
 DiscoverCR/DiscoverCR/DiscoverCR.UWP/bin/x64/Debug/DiscoverCR.UWP.exe
 DiscoverCR/DiscoverCR/DiscoverCR.UWP/bin/x64/Debug/DiscoverCR.dll
 DiscoverCR/DiscoverCR/DiscoverCR.UWP/bin/x64/Debug/DiscoverCR.pdb
+<<<<<<< HEAD
 DiscoverCR/DiscoverCR/DiscoverCR.UWP/obj/x64/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+=======
+>>>>>>> main
 DiscoverCR/DiscoverCR/DiscoverCR.UWP/obj/x64/Debug/DiscoverCR.UWP.csproj.AssemblyReference.cache
 DiscoverCR/DiscoverCR/DiscoverCR.UWP/obj/x64/Debug/DiscoverCR.UWP.exe
 DiscoverCR/DiscoverCR/DiscoverCR.UWP/obj/x64/Debug/ResourceHandlingTask.state
@@ -21,9 +24,17 @@ DiscoverCR/DiscoverCR/DiscoverCR.UWP/obj/x64/Debug/intermediatexaml/DiscoverCR.U
 DiscoverCR/DiscoverCR/DiscoverCR.iOS/obj/iPhoneSimulator/Debug/DiscoverCR.iOS.csproj.AssemblyReference.cache
 DiscoverCR/DiscoverCR/DiscoverCR/bin/Debug/netstandard2.0/DiscoverCR.dll
 DiscoverCR/DiscoverCR/DiscoverCR/bin/Debug/netstandard2.0/DiscoverCR.pdb
+<<<<<<< HEAD
 DiscoverCR/DiscoverCR/DiscoverCR/obj/Debug/netstandard2.0/DiscoverCR.csproj.AssemblyReference.cache
 DiscoverCR/DiscoverCR/DiscoverCR/obj/Debug/netstandard2.0/DiscoverCR.dll
 DiscoverCR/DiscoverCR/DiscoverCR/obj/Debug/netstandard2.0/DiscoverCR.pdb
 *.dll
 DiscoverCR/DiscoverCR/DiscoverCR/bin/Debug/netstandard2.0/DiscoverCR.pdb
+=======
+DiscoverCR/DiscoverCR/DiscoverCR/obj/Debug/netstandard2.0/DiscoverCR.dll
+DiscoverCR/DiscoverCR/DiscoverCR/obj/Debug/netstandard2.0/DiscoverCR.pdb
+DiscoverCR/.vs/DiscoverCR/v16/.suo
+*.dll
+*.pdb
+>>>>>>> main
 DiscoverCR/DiscoverCR/DiscoverCR/obj/Debug/netstandard2.0/DiscoverCR.csproj.AssemblyReference.cache
