@@ -22,3 +22,7 @@ DiscoverCR/DiscoverCR/DiscoverCR/bin/Debug/netstandard2.0/DiscoverCR.dll
 DiscoverCR/DiscoverCR/DiscoverCR/bin/Debug/netstandard2.0/DiscoverCR.pdb
 DiscoverCR/DiscoverCR/DiscoverCR/obj/Debug/netstandard2.0/DiscoverCR.dll
 DiscoverCR/DiscoverCR/DiscoverCR/obj/Debug/netstandard2.0/DiscoverCR.pdb
+DiscoverCR/.vs/DiscoverCR/v16/.suo
+*.dll
+*.pdb
+DiscoverCR/DiscoverCR/DiscoverCR/obj/Debug/netstandard2.0/DiscoverCR.csproj.AssemblyReference.cache
