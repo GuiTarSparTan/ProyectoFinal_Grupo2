@@ -9,3 +9,6 @@ Discover Costa Rica es una aplicacion multiplataforma estilo blog,
 con la intención de conectar a personas apasionadas por visitar 
 puntos de interes turisticos y realizar actividades al aire libre
 por todo el país. 
+
+En este repositorio pueden encontrar información tanto del escrito del proyecto
+como de todo el desarrollo del codigo y funciones de la aplicación. 
